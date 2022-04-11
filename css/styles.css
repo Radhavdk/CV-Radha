@@ -9,7 +9,7 @@
 
 body {
 	font-family: 'Amiri', serif;
-font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -39,7 +39,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #B0C8D0;
 }
 
 .biography-details li, .skill-list li {
@@ -51,4 +51,12 @@ font-family: 'Open Sans', sans-serif;
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.pecolour{
+	color: #86A4AE;	
+}
+
+.education {
+	color: #86A4AE;
 }
